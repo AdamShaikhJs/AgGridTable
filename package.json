@@ -1,0 +1,28 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "ag-grid-community": "24.0.0",
+    "ag-grid-enterprise": "24.0.0",
+    "ag-grid-react": "24.0.0",
+    "axios": "0.21.0",
+    "classnames": "2.2.6",
+    "primeflex": "2.0.0",
+    "primeicons": "4.0.0",
+    "primereact": "5.0.1",
+    "prop-types": "^15.7.2",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-transition-group": "^4.4.1",
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
